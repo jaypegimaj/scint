@@ -68,6 +68,7 @@ header(‘Location: contact-form-thank-you.html’);
 
 ?>
 </script>
+</script>
 
   <div class="contact-title">
     <h1>Nice to Meet you</h1>
