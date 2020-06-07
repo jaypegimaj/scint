@@ -3,7 +3,7 @@
 <html>
 
 
-
+<link href="contactstyle.css" rel="stylesheet" type="text/css" />
 <script src="contactformpush.js" type="text/javascript"></script>
 <script type="text/javascript">
 
